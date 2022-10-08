@@ -5,3 +5,7 @@
 .current-player > span {
   display: block;
 }
+
+.label{
+  text-decoration: underline;
+}
