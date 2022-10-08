@@ -1,0 +1,19 @@
+.board {
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
+
+.board-row {
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 175px) {
+  .board {
+    margin-top: 25px;
+  }
+
+  .board-row {
+    margin-top: -5px;
+  }
+}

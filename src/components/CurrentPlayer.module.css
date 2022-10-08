@@ -1,0 +1,7 @@
+.current-player {
+  margin-bottom: 15px;
+}
+
+.current-player > span {
+  display: block;
+}
