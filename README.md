@@ -2,8 +2,7 @@
 A simple Tic Tac Toe game.
 
 ## Roadmap
-- Deploy to GH Pages
-- Change Square CSS to make grid style
+- Change Square CSS to make hashtag style
 - History? 
 - Play against AI
 - Web connection with random player
